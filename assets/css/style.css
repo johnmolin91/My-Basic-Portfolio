@@ -134,3 +134,8 @@ input, textarea {
 	margin: 5px;
 	width: 500px;
 }
+
+hr {
+	margin: 10px;
+	margin-bottom: 0px;
+}
